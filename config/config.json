@@ -1,0 +1,15 @@
+{
+  "server": {
+    "PORT": 9000
+  },
+  "db": {
+    "host": "localhost",
+    "name": "testfls",
+    "user": "root",
+    "password": "20190923"
+  },
+  "cookie": {
+    "key": "secret key",
+    "auth": "__auth_id"
+  }
+}
